@@ -1,0 +1,15 @@
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\bin\Debug\net6.0\Voting.exe
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\bin\Debug\net6.0\Voting.deps.json
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\bin\Debug\net6.0\Voting.runtimeconfig.json
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\bin\Debug\net6.0\Voting.dll
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\bin\Debug\net6.0\Voting.pdb
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.AssemblyInfo.cs
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.dll
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\refint\Voting.dll
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.pdb
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\Voting.genruntimeconfig.cache
+C:\Users\melik\Desktop\console\c# projeleri zor\Voting\obj\Debug\net6.0\ref\Voting.dll
